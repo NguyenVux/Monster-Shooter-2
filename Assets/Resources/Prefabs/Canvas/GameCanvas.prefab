@@ -6314,8 +6314,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "  Nguyen Thanh Tuong\n\n  Nguyen Khang Duy\n\n  Bui Thi Thao Thao\n\n 
-    Nguyen Thanh Tuong\n\n  Nguyen Khang Duy\n\n  Bui Thi Thao Thao\n\nfor playing\n\n\n"
+  m_Text: "  Nguyen Hoang Vu\n\n  Dao Le Viet Hoang\n\n  Dang Tu Thieu\n\n  Dao Le
+    Viet Hoang\n\n  Dang Tu Thieu\n\n  Nguyen Hoang Vu\n\nfor playing\n\n\n"
 --- !u!1 &7312518548825662455
 GameObject:
   m_ObjectHideFlags: 0
@@ -7046,8 +7046,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Game Systems \n\nLevel Design \n\nUI Design/Prgrame\n\nPlayer Programe\n\nEnemies
-    Programe\n\nSound Design/Programe\n\nThanks \n\n\n"
+  m_Text: "Game Systems \n\nLevel Design \n\nUI Design/Prgramer\n\nPlayer Programer\n\nEnemies
+    Programer\n\nSound Programer\n\nThanks \n\n\n"
 --- !u!1 &8857563033325470845
 GameObject:
   m_ObjectHideFlags: 0
